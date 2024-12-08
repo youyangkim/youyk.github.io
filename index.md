@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! I am Youyang Kim, researcher at the Software Technology Research Center in KNU. I received my Master of Computer science in Kyungpook National University(KNU) advised by Prof.Byungchul Tak and Bachelor's degree in Electronics engineering in KNU. 
+  Hi! I am Youyang Kim, researcher at the Software Technology Research Center in KNU. I received my Master of Computer science  advised by Prof.Byungchul Tak and Bachelor's degree in Electronics engineering in Kyungpook National University(KNU). 
 </p>
 
 <p>
