@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! I am researcher at the Software Technology Research Center in KNU. I received my M.S Computer science in KNU advised by Prof.Byungchul Tak and B.S Electronics engineering in KNU. 
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  My research focuses on system reliability particularly in the areas of misconfiguration, log analysis and AI-driven troubleshooting. The goal of my research is to detect faults in systems and resolve complex system problems! 
 </p>
